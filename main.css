@@ -52,10 +52,10 @@
     }
     ul.menu li a:hover { border-bottom: white solid 2px; }
 #suit {
-	width:25%;
-	height: 375px;
+	width:auto;
+	height: 150px;
 }
 #baseball{
-	width:281px;
-	height:375px;
+	width:auto;
+	height:150px;
 }
