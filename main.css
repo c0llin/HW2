@@ -1,16 +1,14 @@
-*/ nav bar adapted from lynda dot com traning videos 
 
-background-color:gray;
 #main-head {
 		font-family: georgia;
-		font-size: 26px;
+		font-size: 28px;
 		padding: 0;
 		margin: 0;
 		border: black solid 2px;
 	}
 #sub-head {
 		font-family: georgia;
-		font-size: 18px;
+		font-size: 14px;
 		color: gray;
 		padding: 0;
 		margin: 0;
@@ -104,11 +102,16 @@ p.title {
         font-family: georgia;
         font-size: 12px;
         text-align: center;
-        text-decoration: italic;
 	}
 #mastname{
 	text-align:center;
 	font-family: georgia;
 	font-size: 18px;
 }
-
+#list{
+border: solid black 1px;
+}
+body {
+	background-color:#cef;
+	color:gray;
+}
