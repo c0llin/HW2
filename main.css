@@ -73,3 +73,37 @@ div{
 p.title {
 	font-weight:bold;
 }
+
+#masthead {
+	    width: 100%;
+        height: 35px;
+        margin: 0;
+        padding: 0;
+    }
+
+    ul.mast {
+        display: block;
+        list-style-type: none;
+        width: 1200px;
+        margin: 0 auto;
+        padding: 0;
+    }
+	
+    ul.mast li  {
+        display: block;
+        float: left;
+        max-height: 25px;
+        width: 250px;
+        margin: 0;
+        padding: 3px 0;
+        font-family: georgia;
+        font-size: 12px;
+        text-align: center;
+        text-decoration: italic;
+	}
+#mastname{
+	text-align:center;
+	font-family: georgia;
+	font-size: 18px;
+}
+
