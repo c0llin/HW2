@@ -58,3 +58,18 @@
 	width:auto;
 	height:150px;
 }
+
+#edu-head{
+	text-decoration:underline;
+}
+
+#workexp-head{
+	text-decoration:underline;
+}
+div{
+	font-family: georgia;
+	font-size: 12px;
+}
+p.title {
+	font-weight:bold;
+}
