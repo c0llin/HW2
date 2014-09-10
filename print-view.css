@@ -1,12 +1,15 @@
 @media print {
 	div {
-	
+		color:black;
 	}
 	p{
 	font-size: 18px;
-	
+	color:black;
 	}
 	body {
 		background-color:#ffffff;
 	}
+	#baseball {display:none;}
+	#suit{display:none;}
+	#nav-menu{display:none;}
 }
